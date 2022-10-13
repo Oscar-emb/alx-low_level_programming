@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * I added a comment for my int main
+ *main - print the string
+ *Description: using the main function
+ *Return: 0
  * /
 int main(void)
 {
